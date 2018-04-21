@@ -1,0 +1,22 @@
+{
+  "name": "monbonboin",
+  "version": "0.0.1",
+  "description": "Automate LeBonCoin selling",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomazed/monboncoin.git"
+  },
+  "author": "Tomazed <toma.zed@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomazed/monboncoin/issues"
+  },
+  "homepage": "https://github.com/tomazed/monboncoin#readme",
+  "devDependencies": {
+    "zombie": "^6.1.1"
+  }
+}
